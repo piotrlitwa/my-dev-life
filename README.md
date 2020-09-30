@@ -1,1 +1,1 @@
-# my-dev-life
+# Dzień z życia programisty
